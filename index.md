@@ -12,4 +12,4 @@ title: Home
 - [Images](03-images-examples)
 - [Embeds](04-embeds-examples)
 Blah, Blah, Blah...
-[dummy-text](https://fillerama.io)
+[dummy-text](http://fillerama.io)
