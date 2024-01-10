@@ -12,5 +12,10 @@ Research interests include changes in cognition with aging, RNA processing inclu
 - [Markdown](02-markdown-examples)
 - [Images](03-images-examples)
 - [Embeds](04-embeds-examples)
-Blah, Blah, Blah...
+
+Contributions to CATSLife include:
+neurofilament light chain measurements
+C reactive protein measurements
+DNA methylation from saliva, buffy coats and PBMCs
+hemoglobin A1C measurements
 [dummy-text](http://fillerama.io)
